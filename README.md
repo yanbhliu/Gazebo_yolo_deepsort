@@ -43,5 +43,6 @@ In order to get turtlebot3:
  ## for Sort DeepSort, refer to:
  
  https://github.com/ilyasmg/sort-deepsort-yolov3-ROS#readme
+ You can also clone from here, which resolve the indense issue of original repo
 
  
