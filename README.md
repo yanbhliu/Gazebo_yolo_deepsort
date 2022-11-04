@@ -18,10 +18,11 @@ In order to get turtlebot3:
     
     
  ## To run
- You can always select which world you want to run under in /catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/launch
+ You can always select which world you want to run under: \
+ /catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/launch \
  some addtional worlds are shown in the world package.
  
- Example of how to run:
+ ## Example of how to run:
  
  ### on first terminal
  
@@ -42,7 +43,7 @@ In order to get turtlebot3:
     
  ## for Sort DeepSort, refer to:
  
- https://github.com/ilyasmg/sort-deepsort-yolov3-ROS#readme
+ https://github.com/ilyasmg/sort-deepsort-yolov3-ROS#readme \
  You can also clone from here, which resolve the indense issue of original repo
 
  
